@@ -1,0 +1,43 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/fontawesome-webfont.woff);
+}
+
+.nv {
+    padding: 22px 0;
+    border: none;
+    background: #000 !important;
+    color: white;
+    font-size: x-large;
+}
+
+.blackLine {
+    border: none;
+    height: 8px;
+    /* Set the hr color */
+    color: #000;
+    /* old IE */
+    background-color: #000;
+}
+
+.redline {
+    border: none;
+    height: 8px;
+    /* Set the hr color */
+    color: rgb(255, 0, 0);
+    /* old IE */
+    background-color: rgb(255, 0, 0);
+}
+
+.zeldas {
+    display: inline;
+    font-size: x-large;
+}
+
+.linkea {
+    color: black;
+}
+
+.linkea:hover {
+    color: red;
+}
